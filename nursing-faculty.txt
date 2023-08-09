@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+
+<!-- Mirrored from stgeorgecollege.org.in/Nursing_faculty.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 10 Apr 2023 04:42:02 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>St. George College of Management </title>
+    <!-- Favicons -->
+    <link href="images/fav.png" rel="icon ">
+    <meta property="og:image " content="/images/weblogo.jpg ">
+    <!-- Favicons -->
+    <!-- <link href="img/favicon.png" rel="icon">
+    <link href="img/apple-touch-icon.png" rel="apple-touch-icon"> -->
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="vendor/aos/aos.css" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <!-- <link href="vendor/glightbox/css/glightbox.min.css" rel="stylesheet"> -->
+    <link href="vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="scss/main.css">
+
+    <!-- Template Main CSS File -->
+    <link href="css/style.css" rel="stylesheet">
+
+
+</head>
+
+<body>
+    <!-- ======= Header ======= -->
+
+    <div class="pre-header">
+        <div class="coll-two">
+            <p><a href="#"><span style="color:#ef6603;">Admission Open</span> <strong>2022-2023</strong></a> </p>
+        </div>
+        <div class="coll-two">
+             <p><a href="#">Contact: <strong>+91 97425 75774</strong></a></p>
+        </div>
+        <div class="coll-two">
+             <p><a href="#">Help Desk : <strong>080-25450193 / 94</strong></a></p>
+        </div>
+    </div>
+   <div class="container text-center hdpad">
+        <div class="row">
+            <div class="col-lg-2"></div>
+            <div class="col-lg-6">
+                <div class="logo">
+                    <a href="index-2.html"><img src="images/logo.png" class="w-100 d-block"></a>
+
+                </div>
+            </div>
+            <div class="col-lg-4">
+				<div id="clock" onload="currentTime()" class="pay-btn2"></div>
+	
+        <div class="pay-btn2">
+	 <a target="_block" href="https://eazypay.icicibank.com/eazypayLink?P1=s4HqS4QuQrv276/EwKiefg==" class="headbutton">Online Fees Payment</a>
+	</div>
+                <div class="pay-btn2">
+                     <a href="Enquiry_form.html" class="headbutton">For Enquiry / For Apply</a> 
+            
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+	<script>
+		function currentTime() {
+			let date = new Date();
+			let hh = date.getHours();
+			let mm = date.getMinutes();
+			let ss = date.getSeconds();
+			let session = "AM";
+
+			if ( hh === 0 ) {
+				hh = 12;
+			}
+			if ( hh > 12 ) {
+				hh = hh - 12;
+				session = "PM";
+			}
+
+			hh = ( hh < 10 ) ? "0" + hh : hh;
+			mm = ( mm < 10 ) ? "0" + mm : mm;
+			ss = ( ss < 10 ) ? "0" + ss : ss;
+
+			let time = hh + ":" + mm + ":" + ss + " " + session;
+
+			document.getElementById( "clock" ).innerText = time;
+			let t = setTimeout( function () {
+				currentTime()
+			}, 1000 );
+		}
+
+		currentTime();
+	</script>
+
+    <header id="header" class=" header-transparent ">
+        <div class="container  ">
+            <nav id="navbar" class="navbar">
+                <ul>
+                    <li><a class="nav-link scrollto active" href="index.html">HOME</a></li>
+                    <li class="dropdown"><a href="about.html"><span>ABOUT US</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li><a href="History_%26_Milestones.html">History & Milestones</a></li>
+                            <li><a href="Vision_%26_Mission.html">Vision & Mission</a></li>
+                            <li><a href="Board_Of_Trustees.html">Board Of Trustees</a></li>
+
+
+                            <li><a target="_blank " href="images/anti_ragging_policy.pdf">Anti-Ragging Policy</a></li>
+                        </ul>
+                    </li>
+
+                    <!--<li><a class="nav-link scrollto" href="Courses.php">COURSES</a></li>-->
+                    <li class="dropdown"><a href="Courses.html"><span>COURSES</span> <i class="bi bi-chevron-down"></i></a>
+                        
+                        <ul>
+                            <li><a href="Management.html">Management</a></li>
+                            <li><a href="Computer_Science.html">Computer Science</a></li>
+                             <li><a href="Life_Science.html">Life Science</a></li>
+                             <li><a href="Nursing.html">Nursing</a></li>
+                             <li><a href="Commerce.html">Commerce</a></li>
+                             <li><a href="Arts.html">Bachelor of Arts</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown"><a href="#"><span>ADMISSIONS</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li><a href="Rules.html">Rules and Regulations</a></li>
+                            <li><a href="Courses.html">Application</a></li>
+                             <li><a data-bs-toggle="modal" data-bs-target="#exampleModal">Scholarship</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown"><a href="#"><span>FACULTY</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li><a href="principals.html">Principal</a></li>
+                            <li><a href="faculty.html"> Management and Science faculty  </a></li>
+                            <li><a href="Director.html"> Co-Ordinator's Desk </a></li>
+                            <li><a href="Nursing_faculty.html">Nursing Faculty </a></li> 
+                        </ul>
+                    </li>
+                    <li class="dropdown"><a href="#"><span>CAMPUS</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li><a href="facities.html">Facilities</a></li>
+                            <!-- <li><a href="#">Co-Curricular Activities</a></li> -->
+                            <li><a href="#">Events</a></li>
+                            <li><a href="gallery.html">Gallery</a></li>
+
+                        </ul>
+                    </li>
+                    <li class="dropdown"><a href="#"><span>PLACEMENT</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li><a href="placement.html">Placement Department</a></li>
+
+
+                            <li><a class="nav-link scrollto" href="#">ALUMlNI</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown"><a href="#"><span>UUCMS</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li><a href="https://uucms.karnataka.gov.in/Login/OnlineStudentRegistrationForm">Student Registration</a></li>
+
+                            <li><a href="https://uucms.karnataka.gov.in/Login/Index">Student Login</a></li>
+                            <li class="dropdown"><a href="#"><span> FAQ's</span> <i class="bi bi-chevron-right"></i></a>
+                                <ul>
+                                    <li><a href="https://bnu.karnataka.gov.in/storage/pdf-files/Student FAQ.pdf">Student FAQs</a></li>
+                                    <li><a href="https://bnu.karnataka.gov.in/storage/pdf-files/College Admin FAQ.pdf">College Admin FAQs</a></li>
+
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><a class="nav-link scrollto" href="contact.html">CONTACT US</a></li>
+
+
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav>
+            <!-- .navbar -->
+
+        </div>
+    </header>
+
+
+        <!-- End Header -->
+
+    <main id="main">
+        <div class="container mt-5">
+            <div class="section-title" data-aos="zoom-out">
+                <div class="container">
+                    <h2>St. George College</h2>
+                    <p>Faculty</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="table-responsive">
+                        <table class="table table-bordered">
+                            <thead>
+                                <tr>
+                                    <th>Faculty Names</th>
+                                    <th>Designation</th>
+                                    <th>Qualification</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Prof. Jiny Riju George </td>
+                                    <td>Principal, HOD of Mental Health </td>
+                                    <td>M.Sc(N),MA(Psychology),PGDHA</td>
+                                </tr>
+
+                                <tr>
+                                    <td>Mrs. Sapna Varghese</td>
+                                    <td>HOD Of OBG .Dept</td>
+                                    <td>M.Sc(Nursing) </td>
+                                </tr>
+
+                                <tr>
+                                    <td>Mrs. Minimol R</td>
+                                    <td>HOD of Paediatric</td>
+                                    <td>M.Sc ( Nursing) </td>
+                                </tr>
+                                <tr>
+                                    <td>Mrs. Priya Lovely Mathai</td>
+                                    <td>HOD of Medical Surgical Nursing </td>
+                                    <td>M.Sc ( Nursing) </td>
+                                </tr>
+                                <tr>
+                                    <td>Mrs. Hena Esther A</td>
+                                    <td>Asst .Professor </td>
+                                    <td>M.Sc (OBG) </td>
+                                </tr>
+                                <tr>
+                                    <td>Mrs. Grace Smitha Samue</td>
+                                    <td>Asst .Professor </td>
+                                    <td>M.Sc (Medical Surgical Nursing) </td>
+                                </tr>
+                                <tr>
+                                    <td>Mrs. Josephine Bindu</td>
+                                    <td>Asst .Professor </td>
+                                    <td>M.Sc (Mental Health Nursing)</td>
+                                </tr>
+
+                                <tr>
+                                    <td>Mr. Kalanidhi Sam </td>
+                                    <td>Asst .Professor</td>
+                                    <td>M.Sc (Medical &amp; Surgical Nursing). </td>
+                                </tr>
+
+                                <tr>
+                                    <td>Mrs. Evely Mattukkoya </td>
+                                    <td>Asst .Professor</td>
+                                    <td>M.Sc (Paediatric Nursing). </td>
+                                </tr>
+                                <tr>
+                                    <td>Mrs. Kempurathnam Thandari </td>
+                                    <td>Asst .Professor</td>
+                                    <td>M.Sc (O B G Nursing).</td>
+                                </tr>
+                                <tr>
+                                    <td>Mrs. Bini Mathews </td>
+                                    <td>Asst .Professor</td>
+                                    <td>M.Sc (Medical – Surgical Nursing). </td>
+                                </tr>
+
+                                <tr>
+                                    <td>Mrs. Roopa D</td>
+                                    <td>Asst .Professor</td>
+                                    <td>M.Sc (Community Health Nursing).</td>
+                                </tr>
+                                <tr>
+                                    <td>Mr. Gooli Gowda</td>
+                                    <td>Asst .Professor</td>
+                                    <td>M.Sc (Community Health Nursing).</td>
+                                </tr>
+
+                                <tr>
+                                    <td>Mrs. Ancy Samuel</td>
+                                    <td>Asst .Professor</td>
+                                    <td>M.Sc (O B G Nursing).</td>
+                                </tr>
+                                <tr>
+                                    <td>Mrs. Mishara Udhay</td>
+                                    <td>Asst .Professor</td>
+                                    <td>M.Sc (Paediatric Nursing).</td>
+                                </tr>
+                                <tr>
+                                    <td>Dr.Shyam Patil</td>
+                                    <td>Asst .Professor</td>
+                                    <td>Ph.D(Pharmacy)</td>
+                                </tr>
+                                <tr>
+                                    <td>Dr.Sanjiv Yadav</td>
+                                    <td>Asst .Professor</td>
+                                    <td>Ph.D(Pharmacy)</td>
+                                </tr>
+                                <tr>
+                                    <td>Dr.Rajashekar</td>
+                                    <td>Asst .Professor</td>
+                                    <td>MD </td>
+                                </tr>
+                                <tr>
+                                    <td>Hemalatha</td>
+                                    <td>Asst .Professor</td>
+                                    <td>M.sc (Micro Biology)</td>
+                                </tr>
+                                <tr>
+                                    <td>Shakila</td>
+                                    <td>Asst .Professor</td>
+                                    <td>M.sc (Micro Biology & Physiology)</td>
+                                </tr>
+                                <tr>
+                                    <td>Prasanna Kumar</td>
+                                    <td>Asst .Professor</td>
+                                    <td>MA (Sociology) ,M.sc(Physiology)</td>
+                                </tr>
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+
+        <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <img src="images/logo.png" class="w-75" />
+
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <h5 class="modal-title" id="exampleModalLabel">Fill the Form to apply for Scholarship</h5>
+                    <form>
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <label for="name">Name</label>
+                                <input type="name" class="form-control" id="name" placeholder="Enter Your Name">
+                            </div>
+                            <div class="form-group col-md-12">
+                                <label for="email">Email</label>
+                                <input type="email" class="form-control" id="email" placeholder="Enter Your Email">
+                            </div>
+
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <label for="Number">Number</label>
+                                <input type="text" class="form-control" id="Number" placeholder="Phone Number">
+                            </div>
+                            <div class="form-group col-md-12">
+                                <label for="tenth">10th Percentage</label>
+                                <input type="10_mark" class="form-control" id="tenth" placeholder="Password">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <label for="onetwo">12th / PUC Percentage</label>
+                                <input type="12_mark" class="form-control" id="onetwo" placeholder="Email">
+                            </div>
+                            <div class="form-group col-md-12">
+                                <label for="inputPassword4">Password</label>
+                                <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+        <div class="container">
+            <img src="images/logo-footer.png" alt="Logo">
+
+            <p>St. George College of Management, Science & Nursing is a well-known institution was established in 1998
+                in Bangalore, the "Silicon Valley" of India, under the supervision and intervention of St. George
+                Educational & Charitable Trust.</p>
+            <div class="social-links">
+                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            </div>
+            <div class="copyright">
+                &copy; Copyright <strong><span>St. George College of Management</span></strong>. All Rights Reserved
+            </div>
+            <div class="credits">
+                Designed by <a href="#">E9ds</a>
+            </div>
+        </div>
+    </footer>
+    <!-- End Footer -->
+
+    <!-- Modal -->
+
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>    <script>
+    $(window).on('load', function() {
+        $('.applu').liMarquee({
+            circular: true,
+            startShow: true
+        });
+    })
+    </script>
+    <script type="text/javascript">
+    MagicScrollOptions = {
+        speed: 7000,
+        arrows: 'inside',
+        loop: 'rewind'
+    }
+    </script>
+    <!-- Vendor JS Files -->
+    <script src="../code.jquery.com/jquery-3.6.0.js"
+        integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script src="vendor/aos/aos.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="vendor/glightbox/js/glightbox.min.js"></script>
+    <!-- <script src="vendor/isotope-layout/isotope.pkgd.min.js"></script> -->
+    <script src="vendor/swiper/swiper-bundle.min.js"></script>
+
+
+    <!-- Template Main JS File -->
+    <script src="js/main.js"></script>
+
+
+
+
+</body>
+
+
+<!-- Mirrored from stgeorgecollege.org.in/Nursing_faculty.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 10 Apr 2023 04:42:02 GMT -->
+</html>

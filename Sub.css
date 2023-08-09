@@ -1,0 +1,46 @@
+.clock{
+    background: none;
+    width: auto;
+    height: auto;
+    color: #000;
+    font-size: 16px;
+    font-weight: 600;
+    position: relative;
+    left: 260px;
+    top: 40px;
+}
+
+.Set{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.White{
+    color: #fff;
+}
+
+.map{
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+@media (min-width: 468px) {
+.clock{
+    background: none;
+    text-align: center;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    color: #000;
+    font-size:  18px;
+    font-weight: 600;
+    position: relative;
+    left: 1700px;
+    top: -2px;
+}
+
+.Set{
+    margin-top: 35px;
+}
+  }
